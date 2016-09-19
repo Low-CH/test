@@ -8,6 +8,3 @@ git status
 red means unstatus , modified
 
 green means commit file
-
-test
-test

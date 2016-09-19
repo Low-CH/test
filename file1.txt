@@ -1,6 +1,13 @@
 touch filename to create file
+
 add filename to add file
+
 commit to publish
+
 git status 
 red means unstatus , modified
+
 green means commit file
+
+test
+test
